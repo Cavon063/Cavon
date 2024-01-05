@@ -1,0 +1,35 @@
+.top {
+height: 200px;
+width: 400px;
+align-items: center;
+border: 1px solid green;
+border-style: outset;
+border-width: 10px;
+background-color: yellow;
+margin:auto;
+}
+@font-face {
+    font-family: "FFF_Tusj";
+    src: url("Assests/Fonts/fff_tusj-webfont.woff2") format("woff2"),
+     url("Assests/Fonts/fff_tusj-webfont.woff") format("woff");
+
+}
+h1 {
+    font-family: "FFF_Tusj";
+    text-align: center;
+    color: yellow;
+}
+body {
+    background-color: green;
+}
+button {
+    align-items: center;
+    margin: auto;
+}
+@font-face {
+    font-family: "lobster";
+    src: url("Assests/Fonts/Lobster-Regular.ttf");
+}
+label {
+    font-family: "lobster";
+}
